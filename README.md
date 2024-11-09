@@ -63,13 +63,6 @@ python3 nodepay.py
 
 ### 🌟 All risks are borne by the user 🌟
 
-## Donasi
-
-If you find this bot helpful, you can provide support via:
-
-- EVM : `0x513569F2a68f29BA2feeEA57664fa919791F3E0D`
-- Btc : `bc1pcmctyrzu302zm7u9hxd0usc3mt89vqzuj7n27xdksdvs6lsaylmsf60w7l`
-
 ## Disclaimer
 
 This bot is provided without any warranty. Users are fully responsible for the use of bots and the risks that may arise.
